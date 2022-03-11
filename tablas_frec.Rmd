@@ -1,0 +1,17 @@
+---
+title: "Tablas de fecuencia"
+author: "Kenia Osorio"
+date: '2022-03-08'
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Importar la matriz iris
+```{r}
+data("iris")
+```
+
